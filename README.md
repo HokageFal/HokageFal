@@ -1,4 +1,4 @@
-# Hey, I'm ИМЯ 👋
+# Hey, I'm Arsen 👋
 
 Backend developer focused on building clean, scalable REST APIs.  
 I work with Python ecosystem — from fast microservices to full-featured web apps.
