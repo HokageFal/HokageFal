@@ -1,6 +1,11 @@
-# Hey, I'm Арсен 👋
+# Hey, I'm ИМЯ 👋
 
-Backend developer focused on building clean, scalable APIs.
+Backend developer focused on building clean, scalable REST APIs.  
+I work with Python ecosystem — from fast microservices to full-featured web apps.
+
+- 🔭 Currently building production-grade backend systems
+- 🌱 Always improving: architecture, performance, clean code
+- 💬 Open to collaboration and interesting projects
 
 ---
 
@@ -9,6 +14,7 @@ Backend developer focused on building clean, scalable APIs.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
@@ -17,6 +23,15 @@ Backend developer focused on building clean, scalable APIs.
 
 ---
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТУТ_ТВОЙ_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТУТ_ТВОЙ_USERNAME&theme=github-compact&hide_border=true)
+
+---
+
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/@raikazu__dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/raikazu_dev)
+[![Gmail](https://img.shields.io/badge/hokagedsantroll123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hokagedsantroll123@gmail.com)
