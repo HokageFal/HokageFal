@@ -1,4 +1,4 @@
-# Hey, I'm Arsen  👋
+# Hey, I'm ИМЯ 👋
 
 Backend developer focused on building clean, scalable REST APIs.  
 I work with Python ecosystem — from fast microservices to full-featured web apps.
@@ -20,6 +20,9 @@ I work with Python ecosystem — from fast microservices to full-featured web ap
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
