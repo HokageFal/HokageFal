@@ -23,14 +23,6 @@ I work with Python ecosystem — from fast microservices to full-featured web ap
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТУТ_ТВОЙ_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТУТ_ТВОЙ_USERNAME&theme=github-compact&hide_border=true)
-
----
-
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/@raikazu__dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/raikazu_dev)
